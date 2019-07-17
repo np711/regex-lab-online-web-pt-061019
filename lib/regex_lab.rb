@@ -1,8 +1,10 @@
-def starts_with_a_vowel?(word)
+def starts_with_a_vowel?(true)
+  
+  
 
 end
 
-def words_starting_with_un_and_ending_with_ing(text)
+def words_starting_with_un_and_ending_with_ing(false)
 
 end
 
